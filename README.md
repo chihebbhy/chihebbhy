@@ -9,7 +9,7 @@ I enjoy exploring how things work under the hood while building projects that ar
 
 * **Programming Languages:** Assembly, C, C++, Python, Java, SQL, PL/SQL
 * **Web Development:** HTML, CSS, JavaScript, PHP
-* **Graphics & Simulation:** OpenGL, Godot
+* **Graphics & Simulation:** OpenGL, Godot, SDL3
 * **Other Tools & Concepts:** Algorithms, Data Structures, Performance Optimization, Physics Simulation
 
 I enjoy diving deep into **low-level concepts** while applying them to **real-world web and game projects**.
